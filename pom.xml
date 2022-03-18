@@ -6,7 +6,7 @@
 
   <groupId>sai</groupId>
   <artifactId>sandeep</artifactId>
-  <version>1.0.1</version>
+  <version>1.0-SNAPSHOT</version>
   <distributionManagement>
     <snapshotRepository>
       <id>nexus-snapshots</id>
