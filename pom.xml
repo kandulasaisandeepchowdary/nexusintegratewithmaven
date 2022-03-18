@@ -8,10 +8,10 @@
   <artifactId>sandeep</artifactId>
   <version>1.0-SNAPSHOT</version>
   <distributionManagement>
-    <releaseRepository>
+    <snapshotRepository>
       <id>nexus-snapshots</id>
       <url>http://65.0.183.156:8081/repository/sample/</url>
-    </releaseRepository>
+    </snapshotRepository>
     <repository>
       <id>nexus-releases</id>
       <url>http://65.0.183.156:8081/repository/sample-rel/</url>
