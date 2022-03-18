@@ -11,7 +11,7 @@
     <releaseRepository>
       <id>nexus-snapshots</id>
       <url>http://65.0.183.156:8081/repository/sample/</url>
-    </snapshotRepository>
+    </releaseRepository>
     <repository>
       <id>nexus-releases</id>
       <url>http://65.0.183.156:8081/repository/sample-rel/</url>
